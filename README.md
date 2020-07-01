@@ -6,3 +6,4 @@ this is an automation test
 this is an automation test
 
 text
+tests
